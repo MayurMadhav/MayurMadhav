@@ -18,7 +18,7 @@
 
 ⚡️ Join me on this exhilarating journey of innovation, where we fuse technology with imagination to sculpt a future that surpasses all expectations. Connect with me on LinkedIn https://www.linkedin.com/in/mayur23 and let's embark on a technological odyssey like no other!
 
-✉️ Feel free to reach out to me via email at mayur23c@gmail.com or connect with me on LinkedIn https://www.linkedin.com/in/mayur23. Let's connect and embark on an exciting journey of innovation and growth!
+✉️ Feel free to reach out to me via email at mayur23c@gmail.com. Let's connect and embark on an exciting journey of innovation and growth!
 
 <!--
 **MayurMadhav/MayurMadhav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
